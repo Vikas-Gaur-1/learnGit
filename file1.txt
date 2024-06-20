@@ -1,1 +1,4 @@
 This is my first file.
+changes 1
+changes 2
+changes 3 for commit
